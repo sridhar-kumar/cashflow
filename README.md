@@ -69,8 +69,6 @@ CashFlow-Pro/
 │── style.css
 │── script.js
 │── README.md
-│── screenshot1.png
-│── screenshot2.png
 ```
 
 ---
