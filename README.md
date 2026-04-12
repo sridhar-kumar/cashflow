@@ -8,7 +8,7 @@ It allows users to manage their salary, track expenses, visualize data, and expo
 ---
 🚀 Live Demo
 
-🔗
+🔗 https://cashflow-rouge-eta.vercel.app/
 
 ## 🚀 Features
 
